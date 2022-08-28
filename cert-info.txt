@@ -1,0 +1,3 @@
+CERTs generated with Protecle
+all passwords = springboot
+use PEM format in Postman
